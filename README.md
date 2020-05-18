@@ -40,8 +40,13 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **David Rodriguez** - *PI, Head of the project*
+* **David Rodriguez** - *Head of the project*
 * **Alan Allart** - *Low level developer*
+
+See also a list of contributors
+
+* 
+* 
 
 ## License
 
